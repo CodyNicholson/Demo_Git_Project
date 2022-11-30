@@ -1,5 +1,5 @@
 # Demo_Git_Project
 
-By: Cody Nicholson
+By: Cody Nicholson & Md Masudur Rahman
 
 This project is intended to demo how to collaborate using Git & GitHub
